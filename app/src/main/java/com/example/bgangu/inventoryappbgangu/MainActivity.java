@@ -112,7 +112,7 @@ public class MainActivity extends AppCompatActivity {
                 mDisplayProductInfo.append(currentProductName + "     "
                         + currentProductPrice + "       "
                         + currentProductQuantity + "         "
-                        + currentProductSupplierName + "                "
+                        + currentProductSupplierName + "                 "
                         + currentProductSupplierPhoneNumber + "\n");
             }
         } finally {
